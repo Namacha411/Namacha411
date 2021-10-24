@@ -28,6 +28,8 @@
     <img src="resources/vim-original.svg" width=48 height=48>
     <img src="resources/linux-original.svg" width=48 height=48>
     <img src="resources/react-original.svg" width=48 height=48>
+</p>
+<p>
     <img src="resources/c-original.svg" width=48 height=48>
     <img src="resources/cplusplus-original.svg" width=48 height=48>
     <img src="resources/csharp-original.svg" width=48 height=48>
