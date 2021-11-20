@@ -54,4 +54,4 @@
 	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Namacha411"/>
 </a>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Namacha411)](https://github.com/ryo-ma/github-profile-trophy)
