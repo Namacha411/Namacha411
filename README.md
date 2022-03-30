@@ -44,14 +44,12 @@
 [![namacha411](https://img.shields.io/endpoint?url=https%3A%2F%2Fatcoder-badges.now.sh%2Fapi%2Fatcoder%2Fjson%2Fnamacha411&style=for-the-badge)](https://atcoder.jp/users/namacha411)
 [![namacha411](https://img.shields.io/endpoint?url=https%3A%2F%2Fatcoder-badges.now.sh%2Fapi%2Fcodeforces%2Fjson%2Fnamacha411&style=for-the-badge)](https://codeforces.com/profile/namacha411)
 
+[![AtCoder Trophies](https://atcoder-trophies.vercel.app/api/v1/atcoder?username=namacha411)](https://github.com/KATO-Hiro/AtCoderTrophies)
+
 ## GitHub Stats 📊
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
- <img src="https://github-readme-stats.vercel.app/api?username=Namacha411"/>
-</a>
+![Namacha411's GitHub stats](https://github-readme-stats.vercel.app/api?username=Namacha411&show_icons=true)
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Namacha411"/>
-</a>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Namacha411&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Namacha411)](https://github.com/ryo-ma/github-profile-trophy)
